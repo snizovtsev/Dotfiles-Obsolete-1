@@ -33,43 +33,40 @@
 	url = git://github.com/tpope/vim-fugitive.git
 [submodule "vim/bundle/tabular"]
 	path = vim/bundle/tabular
-	url = https://github.com/godlygeek/tabular.git
+	url = git://github.com/godlygeek/tabular.git
 [submodule "vim/bundle/syntastic"]
 	path = vim/bundle/syntastic
-	url = https://github.com/scrooloose/syntastic.git
+	url = git://github.com/scrooloose/syntastic.git
 [submodule "vim/bundle/sessionman"]
 	path = vim/bundle/sessionman
-	url = https://github.com/vim-scripts/sessionman.vim.git
+	url = git://github.com/vim-scripts/sessionman.vim.git
 [submodule "vim/bundle/nerdcommenter"]
 	path = vim/bundle/nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter.git
+	url = git://github.com/scrooloose/nerdcommenter.git
 [submodule "vim/bundle/tagbar"]
 	path = vim/bundle/tagbar
-	url = https://github.com/majutsushi/tagbar.git
+	url = git://github.com/majutsushi/tagbar.git
 [submodule "vim/bundle/clang_complete"]
 	path = vim/bundle/clang_complete
 	url = git://github.com/Rip-Rip/clang_complete.git
 [submodule "vim/bundle/csapprox"]
 	path = vim/bundle/csapprox
-	url = https://github.com/godlygeek/csapprox.git
+	url = git://github.com/godlygeek/csapprox.git
 [submodule "vim/bundle/python-mode"]
 	path = vim/bundle/python-mode
-	url = https://github.com/klen/python-mode.git
+	url = git://github.com/klen/python-mode.git
 [submodule "vim/bundle/preview"]
 	path = vim/bundle/preview
-	url = https://github.com/spf13/vim-preview.git
+	url = git://github.com/spf13/vim-preview.git
 [submodule "vim/bundle/neocomplcache"]
 	path = vim/bundle/neocomplcache
-	url = https://github.com/Shougo/neocomplcache.git
+	url = git://github.com/Shougo/neocomplcache.git
 [submodule "vim/bundle/vimproc"]
 	path = vim/bundle/vimproc
 	url = git://github.com/Shougo/vimproc.git
 [submodule "vim/bundle/neoclang"]
 	path = vim/bundle/neoclang
-	url = https://github.com/osyo-manga/neocomplcache-clang_complete
-[submodule "vim/bundle/neocomplcache-snippets-complete"]
-	path = vim/bundle/neocomplcache-snippets-complete
-	url = https://github.com/Shougo/neocomplcache-snippets-complete.git
+	url = git://github.com/osyo-manga/neocomplcache-clang_complete
 [submodule "vim/bundle/ack"]
 	path = vim/bundle/ack
 	url = git://github.com/mileszs/ack.vim.git
@@ -94,3 +91,6 @@
 [submodule "vim/bundle/matchit"]
 	path = vim/bundle/matchit
 	url = git://github.com/vim-scripts/matchit.zip.git
+[submodule "vim/bundle/neocomplcache-snippets-complete"]
+	path = vim/bundle/neocomplcache-snippets-complete
+	url = git://github.com/Shougo/neocomplcache-snippets-complete.git
